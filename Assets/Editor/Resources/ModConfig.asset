@@ -13,9 +13,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: needyMrsBob
   title: Needy Mrs Bob
-  description: "Needy Mrs Bob 1.0\n\u201CWhat do you mean, \u2018I never listen to
+  description: "Needy Mrs Bob 1.01\n\u201CWhat do you mean, \u2018I never listen to
     you\u2019? Wait, which button again?\u201D\n\nModule ID: needyMrsBob\n\nCreated
     by: Royal_Flu$h & Mrs_Flu$h\n\nManual available here: https://ktane.timwi.de/HTML/Needy%20Mrs%20Bob.html"
-  version: 1.0
+  version: 1.01
   outputFolder: build
   previewImage: {fileID: 2800000, guid: ba4fe509368c84da59b80497539036ac, type: 3}
